@@ -7,4 +7,3 @@
 ## Description of Files and Directories
 
 ## Issues# flatpickr_lwc_implementation
-# flatpickr_lwc_implementation
